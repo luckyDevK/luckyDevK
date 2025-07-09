@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Frontend Developer from Indonesia 🇮🇩</h3>
 
 - 🌱 I’m currently learning **Next.js** and diving deeper into frontend technologies  
-- 💻 All of my projects are showcased at [my portfolio](https://lucky-dev-k-portfolio.vercel.app/)
+- 💻 All of my projects are showcased in my repos
 - 💬 Ask me about **React, Tailwind CSS, Node.js, and Express.js**
 - 📫 Reach me at **veryluckykurniawan@gmail.com**
 
