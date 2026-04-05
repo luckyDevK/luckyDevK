@@ -4,7 +4,7 @@
 - 🐹 I love **Golang** and building robust backend systems
 - 🧠 Currently diving deep into **Computer Architecture & DSA** to build things from scratch
 - 🔧 Focused on strengthening backend skills rather than frontend
-- 🚀 Love building **complex and medium projects** with real-world impact
+- 🚀 Love building **medium to complex projects** with real-world impact
 - 💬 Ask me about **Go, Gin, REST APIs, Database Design, and Clean Architecture**
 - 📫 Reach me at **verylucky065@gmail.com**
 
