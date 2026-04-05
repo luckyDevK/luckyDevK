@@ -2,7 +2,7 @@
 <h3 align="center">A Backend-Focused Fullstack Engineer from Indonesia 🇮🇩</h3>
 
 - 🐹 I love **Golang** and building robust backend systems
-- 🧠 Currently diving deep into **Computer Architecture & DSA** to build things from scratch
+- 🧠 Currently diving deep into **Computer Architecture & DSA** to understand system from the ground up
 - 🔧 Focused on strengthening backend skills rather than frontend
 - 🚀 Love building **medium to complex projects** with real-world impact
 - 💬 Ask me about **Go, Gin, REST APIs, Database Design, and Clean Architecture**
